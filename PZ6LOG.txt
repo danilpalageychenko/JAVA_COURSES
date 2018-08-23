@@ -1,0 +1,7 @@
+/home/gaara/IdeaProjects/MyMavenProject/swapWordsPZ5.txt
+/home/gaara/IdeaProjects/MyMavenProject/swapWordsPZ5(Swaped).txt
+/home/gaara/IdeaProjects/MyMavenProject/studentsmarkPZ5.txt
+/home/gaara/IdeaProjects/MyMavenProject/PZ6LOG.txt
+/home/gaara/IdeaProjects/MyMavenProject/PZ5.txt
+/home/gaara/IdeaProjects/MyMavenProject/resultBufferTestPZ5.txt
+/home/gaara/IdeaProjects/MyMavenProject/swapWordsPZ5.txt
